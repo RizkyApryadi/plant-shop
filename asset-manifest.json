@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RizkyApryadi/plant-shop.git/static/css/main.f680a225.css",
-    "main.js": "/RizkyApryadi/plant-shop.git/static/js/main.b4bd5a30.js",
-    "static/media/anggrek.jpg": "/RizkyApryadi/plant-shop.git/static/media/anggrek.3af652ad1906f4d72c29.jpg",
-    "static/media/monstera.jpg": "/RizkyApryadi/plant-shop.git/static/media/monstera.412604e783525e9f3011.jpg",
-    "static/media/aglonema.jpg": "/RizkyApryadi/plant-shop.git/static/media/aglonema.e99878e145374e2331e3.jpg",
-    "static/media/mawar.jpg": "/RizkyApryadi/plant-shop.git/static/media/mawar.c8c8fde94f0f334f1e57.jpg",
-    "static/media/kaktus.jpg": "/RizkyApryadi/plant-shop.git/static/media/kaktus.dbb3b5b7241c67725f18.jpg",
-    "static/media/lidah_mertua.jpg": "/RizkyApryadi/plant-shop.git/static/media/lidah_mertua.eb95eb1e50272803a6e7.jpg",
-    "index.html": "/RizkyApryadi/plant-shop.git/index.html",
-    "main.f680a225.css.map": "/RizkyApryadi/plant-shop.git/static/css/main.f680a225.css.map",
-    "main.b4bd5a30.js.map": "/RizkyApryadi/plant-shop.git/static/js/main.b4bd5a30.js.map"
+    "main.css": "/plant-shop/static/css/main.f680a225.css",
+    "main.js": "/plant-shop/static/js/main.349ee4cb.js",
+    "static/media/anggrek.jpg": "/plant-shop/static/media/anggrek.3af652ad1906f4d72c29.jpg",
+    "static/media/monstera.jpg": "/plant-shop/static/media/monstera.412604e783525e9f3011.jpg",
+    "static/media/aglonema.jpg": "/plant-shop/static/media/aglonema.e99878e145374e2331e3.jpg",
+    "static/media/mawar.jpg": "/plant-shop/static/media/mawar.c8c8fde94f0f334f1e57.jpg",
+    "static/media/kaktus.jpg": "/plant-shop/static/media/kaktus.dbb3b5b7241c67725f18.jpg",
+    "static/media/lidah_mertua.jpg": "/plant-shop/static/media/lidah_mertua.eb95eb1e50272803a6e7.jpg",
+    "index.html": "/plant-shop/index.html",
+    "main.f680a225.css.map": "/plant-shop/static/css/main.f680a225.css.map",
+    "main.349ee4cb.js.map": "/plant-shop/static/js/main.349ee4cb.js.map"
   },
   "entrypoints": [
     "static/css/main.f680a225.css",
-    "static/js/main.b4bd5a30.js"
+    "static/js/main.349ee4cb.js"
   ]
 }
